@@ -27,3 +27,4 @@ public class SampleTest {
         driver.navigate().to("https://index.hu");
     }
 }
+ 
