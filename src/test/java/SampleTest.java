@@ -10,7 +10,7 @@ public class SampleTest {
     WebDriver driver;
 
     @Test
-    public void SampleTest(){
+    public void sampleTest(){
         WebDriverManager.chromedriver().setup();
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--no-sandbox");
